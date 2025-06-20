@@ -15,7 +15,7 @@ The project consists of three main applications:
 ### Technical Stack
 
 - **Framework**: React with TypeScript
-- **Styling**: Tailwind CSS
+- **Styling**: Bootstrap
 - **Module Federation**: Using `@module-federation/vite` for micro-frontend architecture
 - **Build Tool**: Vite
 
